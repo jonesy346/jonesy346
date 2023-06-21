@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Nile and I love to code and learn new things! 👋
 
 <!--
 **jonesy346/jonesy346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
